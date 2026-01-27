@@ -1,6 +1,5 @@
 <h3 align="left">public class Readme {</h3>
 
----
 
 <p align="left">💻 |  Fullstack Developer in Training<br>📕 |  Studying Java and Object-Oriented Programming</p>
 
@@ -59,7 +58,7 @@
   </a>
 </div>
 
-###
+---
 
 <img src="https://raw.githubusercontent.com/geovane-nves/geovane-nves/output/snake.svg" alt="Snake animation" />
 
