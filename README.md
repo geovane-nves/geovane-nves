@@ -4,8 +4,7 @@
 
 <p align="left">💻 |  Fullstack Developer in Training<br>📕 |  Studying Java and Object-Oriented Programming</p>
 
-###
-
+---
 <h3 align="left"></h3>
 
 ###
