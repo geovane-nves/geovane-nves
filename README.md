@@ -59,10 +59,6 @@
 </div>
 
 
-
-<img src="https://raw.githubusercontent.com/geovane-nves/geovane-nves/output/snake.svg" alt="Snake animation" />
-
-
 <h3 align="left"></h3>
 
 ###
