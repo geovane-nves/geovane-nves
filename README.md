@@ -6,7 +6,7 @@
 ## 👨‍💻 About me
 
 - 🔭 Currently studying: **Systems Analysis and Development**
-- 🌱 Language studying: **JAVA In FRAMEWORKS**
+- 🌱 Language studying: **PYTHON In FRAMEWORKS**
 - 👯 Looking to collaborate on: **OPEN SOURCE PROJECTS**
 - 💬 Ask me about: **PROGRAMMING / TECHNOLOGY**
 - 📫 Contact: **geonevesrodrigues@email.com**
@@ -16,8 +16,8 @@
 <h3 align="center"> Technologies I use</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,spring,postgres,mysql,mongodb&theme=light&perline=15" height="40" alt="Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea,figma,ubuntu&theme=light&perline=15" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,c,python,spring,postgres,mysql&amp;theme=light&amp;perline=15" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,linux&theme=light&perline=15" height="40" alt="Tech Stack" />
 </div>
 
 ---
